@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <p>
   # I use daily :
    <img alt = "Pytgon" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="AmazonAWS" src="https://img.shields.io/badge/-Amazon-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+    <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=Serverless&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="AmazonAWS" src="https://img.shields.io/badge/-Amazon-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
