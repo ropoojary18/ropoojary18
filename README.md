@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 ***
 ![Ro's github stats](https://github-readme-stats.vercel.app/api?username=ropoojary18&show_icons=true&theme=dark)
+![Ro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ropoojary18&layout=compact&hide=php&hide_border=true&theme=dark)
 
