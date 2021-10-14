@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-roshanpoojary0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roshanpoojary0@gmail.com)](mailto:roshanpoojary0@gmail.com)
 
 ***
+![Ro's github stats](https://github-readme-stats.vercel.app/api?username=ropoojary18&show_icons=true&theme=dracula&hide=stars,issues)
