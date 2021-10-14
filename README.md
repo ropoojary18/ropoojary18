@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Instagram Badge](https://img.shields.io/badge/-@ropoojary-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/ropoojary)](https://instagram.com/ropoojary) [![Linkedin Badge](https://img.shields.io/badge/-RoshanPoojary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-poojary-735b9118b/)](https://www.linkedin.com/in/roshan-poojary-735b9118b/)
+[![Instagram Badge](https://img.shields.io/badge/-@ro_poojary-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/ro_poojary)](https://instagram.com/ro_poojary) [![Linkedin Badge](https://img.shields.io/badge/-RoshanPoojary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-poojary-735b9118b/)](https://www.linkedin.com/in/roshan-poojary-735b9118b/)
 [![Gmail Badge](https://img.shields.io/badge/-roshanpoojary0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roshanpoojary0@gmail.com)](mailto:roshanpoojary0@gmail.com)
