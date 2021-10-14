@@ -1,4 +1,6 @@
-### Namaste Ji, I am [Roshan](https://github.com/ropoojary18)
+### Namaste Ji, I am [Roshan](https://github.com/ropoojary18)<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg" />
+
+
 
 <!--
 **ropoojary18/ropoojary18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
