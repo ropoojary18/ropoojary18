@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 ***
 <!-- ![Ro's github stats](https://github-readme-stats.vercel.app/api?username=ropoojary18&show_icons=true&theme=dark)
 ![Ro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ropoojary18&layout=compact&hide=php&hide_border=true&theme=dark) -->
+### I use daily :
 <p>
-  # I use daily :
+
    <img alt = "Pytgon" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
     <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=Serverless&logoColor=white" />
